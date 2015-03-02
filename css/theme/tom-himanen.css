@@ -279,10 +279,11 @@ body {
 *********************************************/
 
 #twitter-handle {
-  color: white;
+  color: #888;
   position: fixed;
   bottom: 20px;
   right: 20px;
   font-family: 'simplifica', 'helvetica';
-  font-size: 20px;
+  font-size: 30px;
+  letter-spacing: 3px;
 }
