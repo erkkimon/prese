@@ -4,15 +4,15 @@
   font-family: simplifica;
   font-style: normal;
   font-weight: normal;
-  src: url('../fonts/simplifica/simplifica.eot');
-  src: url('../fonts/simplifica/simplifica.eot?') format('eot'), url('../fonts/simplifica/simplifica.woff') format('woff'), url('../fonts/simplifica/simplifica.ttf') format('truetype'); }
+  src: url('https://rawgit.com/erkkimon/prese/master/fonts/simplifica/simplifica.eot');
+  src: url('https://rawgit.com/erkkimon/prese/master/fonts/simplifica/simplifica.eot?') format('eot'), url('https://rawgit.com/erkkimon/prese/master/fonts/simplifica/simplifica.woff') format('woff'), url('https://rawgit.com/erkkimon/prese/master/fonts/simplifica/simplifica.ttf') format('truetype'); }
 
 @font-face {
   font-family: gandhi-sans-regular;
   font-style: normal;
   font-weight: normal;
-  src: url('../fonts/gandhi-sans-regular/gandhi-sans-regular.eot');
-  src: url('../fonts/gandhi-sans-regular/gandhi-sans-regular.eot?') format('eot'), url('../fonts/gandhi-sans-regular/gandhi-sans-regular.woff') format('woff'), url('../fonts/gandhi-sans-regular/gandhi-sans-regular.ttf') format('truetype'); }
+  src: url('https://rawgit.com/erkkimon/prese/master/fonts/gandhi-sans-regular/gandhi-sans-regular.eot');
+  src: url('https://rawgit.com/erkkimon/prese/master/fonts/gandhi-sans-regular/gandhi-sans-regular.eot?') format('eot'), url('https://rawgit.com/erkkimon/prese/master/fonts/gandhi-sans-regular/gandhi-sans-regular.woff') format('woff'), url('https://rawgit.com/erkkimon/prese/master/fonts/gandhi-sans-regular/gandhi-sans-regular.ttf') format('truetype'); }
 /**
  * Black theme for reveal.js. This is the opposite of the 'white' theme.
  *
@@ -29,7 +29,7 @@ body {
   background-color: #000; }
 
 .reveal {
-  font-family: 'Source Sans Pro', Helvetica, sans-serif;
+  font-family: 'simplifica', Helvetica, sans-serif;
   font-size: 38px;
   font-weight: normal;
   color: #fff; }
@@ -49,7 +49,7 @@ body {
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   margin: 0 0 20px 0;
   color: #fff;
-  font-family: 'Source Sans Pro', Helvetica, sans-serif;
+  font-family: 'simplifica', Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
