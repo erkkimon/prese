@@ -4,15 +4,15 @@
   font-family: simplifica;
   font-style: normal;
   font-weight: normal;
-  src: url('https://rawgit.com/erkkimon/prese/master/fonts/simplifica/simplifica.eot');
-  src: url('https://rawgit.com/erkkimon/prese/master/fonts/simplifica/simplifica.eot?') format('eot'), url('https://rawgit.com/erkkimon/prese/master/fonts/simplifica/simplifica.woff') format('woff'), url('https://rawgit.com/erkkimon/prese/master/fonts/simplifica/simplifica.ttf') format('truetype'); }
+  src: url('http://static.himanen.info/prese/fonts/simplifica/simplifica.eot');
+  src: url('http://static.himanen.info/prese/fonts/simplifica/simplifica.eot?') format('eot'), url('http://static.himanen.info/prese/fonts/simplifica/simplifica.woff') format('woff'), url('http://static.himanen.info/prese/fonts/simplifica/simplifica.ttf') format('truetype'); }
 
 @font-face {
   font-family: gandhi-sans-regular;
   font-style: normal;
   font-weight: normal;
-  src: url('https://rawgit.com/erkkimon/prese/master/fonts/gandhi-sans-regular/gandhi-sans-regular.eot');
-  src: url('https://rawgit.com/erkkimon/prese/master/fonts/gandhi-sans-regular/gandhi-sans-regular.eot?') format('eot'), url('https://rawgit.com/erkkimon/prese/master/fonts/gandhi-sans-regular/gandhi-sans-regular.woff') format('woff'), url('https://rawgit.com/erkkimon/prese/master/fonts/gandhi-sans-regular/gandhi-sans-regular.ttf') format('truetype'); }
+  src: url('http://static.himanen.info/prese/fonts/gandhi-sans-regular/gandhi-sans-regular.eot');
+  src: url('http://static.himanen.info/prese/fonts/gandhi-sans-regular/gandhi-sans-regular.eot?') format('eot'), url('http://static.himanen.info/prese/fonts/gandhi-sans-regular/gandhi-sans-regular.woff') format('woff'), url('http://static.himanen.info/prese/fonts/gandhi-sans-regular/gandhi-sans-regular.ttf') format('truetype'); }
 /**
  * Black theme for reveal.js. This is the opposite of the 'white' theme.
  *
